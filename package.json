@@ -1,0 +1,29 @@
+{
+  "name": "node.js-homework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lordfedot/Node.js-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lordfedot/Node.js-homework/issues"
+  },
+  "homepage": "https://github.com/Lordfedot/Node.js-homework#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nanoid": "^4.0.0"
+  },
+  "type": "module"
+}
